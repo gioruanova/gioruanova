@@ -1,4 +1,4 @@
-### Hi there 👋
+##👋 Hi there 
 
 📍 I was born in Buenos Aires, Argentina, and have spent the majority of my career at American Express. Over the course of 15 years, I have had a strong focus on the Resource Planning Center, specializing in forecasting, business engineering, project analysis, and team leadership. This experience has allowed me to develop a deep understanding of optimizing processes and driving efficiency within the organization.
 
