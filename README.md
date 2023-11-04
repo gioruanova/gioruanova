@@ -15,7 +15,7 @@
 
 
 ## 🛠 My Skills
-HTML - CSS - SASS - Javascript - ReactJS - Wordpress - Divi - Jquery - Bootstrap - PHP - MySql - Git - Azure - Bitbicket - Sorucetree - Jira - Adobe Suit - Java
+HTML - CSS - SASS - Javascript - ReactJS - Wordpress - Divi - Jquery - Bootstrap - PHP - MySql - Git - Azure - Bitbucket - Sourcetree - Jira - Adobe Suit - Java
 
 ## 🔗 Links
 
