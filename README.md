@@ -15,7 +15,8 @@
 
 
 ## 🛠 My Skills
-HTML - CSS - SASS - Javascript - ReactJS - Wordpress - Divi - Jquery - Bootstrap - PHP - MySql - Git - Azure - Bitbucket - Sourcetree - Jira - Adobe Suit - Java
+
+[![My Skills](https://skillicons.dev/icons?i=wordpress,php,html,css,sass,js,react,firebase,jquery,bootstrap,mysql,git,github,vercel,netlify,azure,java,figma,ps,xd,ai,vscode,visualstudio,eclipse,idea,postman,&perline=9)](https://skillicons.dev)
 
 ## 🔗 Links
 
