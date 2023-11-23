@@ -16,7 +16,20 @@
 
 ## 🛠 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=wordpress,php,html,css,sass,js,react,firebase,jquery,bootstrap,mysql,git,github,vercel,netlify,azure,java,figma,ps,xd,ai,vscode,visualstudio,eclipse,idea,postman,&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,wordpress)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=sass,jquery,php,mysql)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=firebase,azure,vercel,netlify)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,xd,ai)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea,postman)](https://skillicons.dev)
+
 
 ## 🔗 Links
 
