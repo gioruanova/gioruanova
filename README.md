@@ -16,15 +16,17 @@
 
 ## 🛠 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery,react)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=sass,jquery,php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,wordpress)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,mysql,php,laravel)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=firebase,azure,vercel,netlify)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,androidstudio)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,xd,ai)](https://skillicons.dev)
 
