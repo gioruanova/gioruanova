@@ -24,7 +24,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,azure,vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,azure,vercel,netlify,supabase)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=java,androidstudio)](https://skillicons.dev)
 
