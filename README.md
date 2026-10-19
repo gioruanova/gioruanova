@@ -1,16 +1,12 @@
 ## 👋 Hi there 
 
-📍 I was born in Buenos Aires, Argentina, and have spent the majority of my career at American Express. Over the course of 15 years, I have had a strong focus on the Resource Planning Center, specializing in forecasting, business engineering, project analysis, and team leadership. This experience has allowed me to develop a deep understanding of optimizing processes and driving efficiency within the organization.
+I’m Jorge, a software developer passionate about technology, problem-solving, and building meaningful digital experiences. I enjoy turning complex challenges into simple, scalable solutions while constantly looking for better ways to build, improve, and innovate.
 
-🛠 Five years ago, I made a conscious decision to challenge myself and reignite an old passion from my past. That's when I dove back into the world of frontend development. With a renewed sense of purpose, I dedicated myself to honing my skills in usability and pixel-perfect design. Drawing from my previous experience, I seamlessly transitioned into this role and quickly found myself immersed in the art of coding and creating visually stunning websites and applications.
+Technology has been a constant throughout my career. During my 15 years at American Express, I grew into leadership and technical roles focused on automation and process engineering, developing a strong foundation in problem-solving, optimization, and finding better ways to get things done.
 
-🚀 Fuelled by my passion for technology, I am constantly seeking opportunities to expand my knowledge and stay up-to-date with the latest industry trends. 
+Eventually, I made the move into software development, bringing that experience into a field where I could combine technology, creativity, and analytical thinking. Since then, I’ve continued challenging myself, learning new technologies, and expanding my skills across frontend, backend, and modern software development practices.
 
-📃 I am not only dedicated to my formal studies in System Analysis(DaVinci University) but also engage in self-directed learning, always exploring new technologies and methodologies. This drive for growth, coupled with my natural inclination for dynamic environments, fuels my desire to continually challenge myself and deliver a "wow" effect to clients.
-
-🌟The coding mindset has become an integral part of my life. From daily tasks to life's challenges, I'm a strong believer that if there are variables involved, there is always room for improvement and the potential to find solutions. You only need to research, implement, test, and repeat it again, until you achieve your goal.
-
-💼 Currently working for Clarika Software with an amazing client Saffire LLC, in frontend tasks, providing support for themes and sites development, and global platform UI tasks.
+I enjoy digging into complex problems, understanding how things work, and turning ideas into practical, maintainable solutions. I’m particularly interested in how AI is changing the way we build software, always looking for new tools, better workflows, and smarter ways to solve problems..
 
 
 
